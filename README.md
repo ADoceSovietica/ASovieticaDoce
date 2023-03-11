@@ -1,1 +1,1 @@
-Programadora sem o que fazer da vida.
+Cursando ciências da computação (1º Semestre).
