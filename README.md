@@ -4,7 +4,7 @@
 
 <a href="https://www.instagram.com/d0c3_c/?next=%2F"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-<a href="https://github.com/DoceC"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/La_Dulce"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 # Aprendendo:
 
@@ -15,6 +15,6 @@
 
 # Status:
 
-[![card](https://github-readme-stats.vercel.app/api?username=docec&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=la_dulce&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![c4ndyc](https://github-readme-stats.vercel.app/api/top-langs/?username=docec&hide=html&layout=compact=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![c4ndyc](https://github-readme-stats.vercel.app/api/top-langs/?username=la_dulce&hide=html&layout=compact=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
