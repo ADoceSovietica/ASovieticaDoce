@@ -15,6 +15,6 @@
 
 # Status:
 
-[![card](https://github-readme-stats.vercel.app/api?username=ladulcec&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=asovieticadoce&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![c4ndyc](https://github-readme-stats.vercel.app/api/top-langs/?username=ladulcec&hide=html&layout=compact=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![c4ndyc](https://github-readme-stats.vercel.app/api/top-langs/?username=asovieticadoce&hide=html&layout=compact=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
