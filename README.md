@@ -1,10 +1,12 @@
-# >>***__Cursando ciências da computação (1º Semestre)__***<<
+# >>***__Cursando ciências da computação (1º Semestre) / Изучение информатики (1-й семестр) / Estudiando informática (1º Semestre)__***<<
 
 # Info:
 
-**Nome / Имя / Nombre: Сладкий / Doce / Dulce;**
+**Nome / Имя / Nombre: Doce / Сладкий / Dulce;**
 
-**Idiomas / Языки: Português(BR), Русский, Español;**
+**Idiomas / Языки: 🇧🇷 Português(BR), 🇷🇺 Русский, 🇪🇸 Español;**
+
+![ texto](https://www.gestaoeducacional.com.br/wp-content/uploads/2018/12/uniao-sovietica.jpg)
 
 # Redes sociais / Социальные медиа / Redes sociales:
 
