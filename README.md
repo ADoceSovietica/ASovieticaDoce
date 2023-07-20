@@ -4,7 +4,7 @@
 
 **Nome: Soviética Doce / Doce Soviética**
 
-**Semestre: 1º**
+**Semestre: 2º**
 
 # Redes sociais:
 
