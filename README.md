@@ -21,8 +21,8 @@
 
 # Cartões:
 
-[![card](https://github-readme-stats.vercel.app/api/top-langs/?username=ADoceSovietica&hide=html&layout=compact=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adocesovietica&show_icons=true&theme=dracula)
 
-[![card](https://github-readme-stats.vercel.app/api?username=ADoceSovietica&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adocesovietica&layout=compact&theme=dracula)
 
 ![ texto](https://www.gestaoeducacional.com.br/wp-content/uploads/2018/12/uniao-sovietica.jpg)
