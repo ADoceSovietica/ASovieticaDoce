@@ -4,7 +4,7 @@
 
 **Nome: Soviética Doce / Doce Soviética**
 
-**Semestre: 2º**
+**Semestre: 3º**
 
 # Aprendendo:
 
