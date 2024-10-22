@@ -1,7 +1,7 @@
 ## Info:
 
-**Name: Swodki**
-**Course: Computer Science**
+**Name: Swodki** \
+**Course: Computer Science** \
 **Work: Network Analyst**
 
 ## Stats:
