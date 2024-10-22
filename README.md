@@ -1,10 +1,10 @@
-# >>***__Cursando ciências da computação__***<<
-
-# Info:
+## Info:
 
 **Name: Swodki**
+**Course: Computer Science**
+**Work: Network Analyst**
 
-# Cards:
+## Stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swodki&show_icons=true&theme=dracula)
 
