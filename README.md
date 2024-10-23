@@ -10,7 +10,7 @@
 
 -PL: Nazywam się Sarah, mam 20 lat, pracuję jako analityk sieciowy w firmie. Obecnie studiuję Nauki komputerowe i jestem zainteresowany rozwojem gier.
 
--PT/BR: Meu nome é Sarah, tenho 20 anos, trabalho como analista de rede em uma empresa. Atualmente estou estudando ciência da computação e estou interessado em desenvolver jogos.
+-PT/BR: Meu nome é Sarah, tenho 20 anos, trabalho como analista de rede em uma empresa. Atualmente estou estudando ciência da computação e estou interessada em desenvolver jogos.
 
 ## Stats:
 
