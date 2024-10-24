@@ -1,10 +1,10 @@
-## Info:
+## 👩‍👧‍👦 Info:
 
 **Name: Swodki** \
 **Course: Computer Science** \
 **Work: Network Analyst**
 
-## Bio:
+## 🗂️ Bio:
 
 - EN: My name is Sarah, I'm 20 years old, I work as a network analyst in a company. I am currently studying computer science and I am interested in developing games.
 
@@ -14,7 +14,7 @@
 
 - PT/BR: Meu nome é Sarah, tenho 20 anos, trabalho como analista de rede em uma empresa. Atualmente estou estudando ciência da computação e estou interessada em desenvolver jogos.
 
-## Stats:
+## 📊 Stats:
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Swodki&theme=rose&hide_border=true)
 
