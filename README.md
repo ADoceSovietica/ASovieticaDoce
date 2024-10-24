@@ -16,6 +16,8 @@
 
 ## Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swodki&show_icons=true&theme=dracula)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Swodki&theme=rose&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swodki&layout=compact&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swodki&show_icons=true&theme=rose)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swodki&layout=compact&theme=rose)
