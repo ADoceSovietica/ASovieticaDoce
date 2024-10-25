@@ -2,7 +2,8 @@
 
 **Name: Swodki** \
 **Course: Computer Science** \
-**Work: Network Analyst**
+**Work: Network Analyst** \
+**Years: 20**
 
 ## 🗂️ Bio:
 
