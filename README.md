@@ -16,7 +16,7 @@
 - PT/BR: Meu nome é Sarah, tenho 20 anos, trabalho como analista de rede em uma empresa. Atualmente estou estudando ciência da computação e estou interessada em desenvolver jogos.
 
 ## 📊 Stats:
-
+ 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Swodki&theme=rose&hide_border=true)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swodki&show_icons=true&theme=rose)
