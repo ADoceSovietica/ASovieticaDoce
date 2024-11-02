@@ -6,7 +6,7 @@
 **Years: 20**
 
 ## 🗂️ Bio:
-
+ 
 - EN: My name is Sarah, I'm 20 years old, I work as a network analyst in a company. I am currently studying computer science and I am interested in developing games.
 
 - RU: Меня зовут Сара, мне 20 лет, я работаю сетевым аналитиком в компании. В настоящее время я изучаю информатику и интересуюсь разработкой игр.
