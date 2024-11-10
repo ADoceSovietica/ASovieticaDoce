@@ -1,4 +1,4 @@
-## 👩‍👧‍👦 Info:
+## 👩‍👧‍👦 Info: 
 
 **Name: Swodki** \
 **Course: Computer Science** \
